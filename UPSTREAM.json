@@ -1,0 +1,28 @@
+{
+  "repository": "https://github.com/email-marketing-skills/email-marketing-skills",
+  "commit": "bd3216999c3395e5f5ea6b6d0f8865f5460d73d3",
+  "files": {
+    "skills/ai-sdr/SKILL.md": "9514b8094d503d182923f72a0100f34f24c407f6adbf71ee49ecdd7f44880142",
+    "skills/ai-sdr/references/example.md": "48847cf95f4c75425b8ec4628986c23c55d3753ff6a69be2e4538ad8e8b8a5c8",
+    "skills/email-calendar/SKILL.md": "6aad7465261f3cbbd2043157e576ecd1a7d29f71a13b18cb10bba8727d519bc4",
+    "skills/email-calendar/references/example.md": "d657f11c514923ced862137e1c3cc97887b7bcd912a7eb609fea944aa72661ac",
+    "skills/email-copywriting/SKILL.md": "dfe42e2df64f2afb87c011cd23ab7b774207cb1bd9850df0fcfa9ebaaa74496a",
+    "skills/email-copywriting/references/editing.md": "16d0286f3bb1f3b1fcfe9bcfa3ac278d85b6cccd1302fdccb5fe8f7e54703a6e",
+    "skills/email-deliverability/SKILL.md": "e286b5bd8d5920de726108b68dd05134273412e410f03861390f10ee381a571d",
+    "skills/email-deliverability/references/evidence.md": "86ac1eae04fbec4eb58dd926d5cad3194bd6e9473d23fafc88d9974ac1692ac7",
+    "skills/email-experiments/SKILL.md": "665d914b8bf4ff8cbb12ce1d8a90488a5587efbc2207d39093a5e959cfa8a8c9",
+    "skills/email-experiments/references/example.md": "e5158d5a6dc1be18492e287c67ff66f6a0ec9922b4c0e4f6a75661747059eab2",
+    "skills/email-lifecycle/SKILL.md": "d7c716f7fc773f70acfb7a274124a5a2598a7caecca5cfb7ed8fca9d60f1ef6b",
+    "skills/email-lifecycle/references/worked-flow.md": "348a7f148cc44731613ad4cb2fb6a505063daf6df7861efe863870d33f7dc80f",
+    "skills/email-list-growth/SKILL.md": "0586d4180dc9bb62bee601fc75dbfed5375743a6138cfcf52d512edc832b8c31",
+    "skills/email-list-growth/references/example.md": "f46e5df42bb6e960eccf4771372cbcea152a79225d8e12c3ec9f066b2ca8a0b8",
+    "skills/email-marketing/SKILL.md": "eea5172825c544cebe4067262b73c211fecc7ee39aaff567b20553bdff347bbc",
+    "skills/email-marketing/assets/preview.json": "e3c46073d9b766bda2092896906ddf25f9fca93d9744d4d3c2701e15c74395a7",
+    "skills/email-marketing/references/implementation.md": "45319be26d58d99558fe7eb8f4e593932da81916a8e8100a406023be24bafe1c",
+    "skills/email-marketing/references/program.md": "36cf106ee936702d0950d55b3ad5b11359c5ddb2bbc30d3fe89a5504986dfa69",
+    "skills/email-marketing/references/saka.md": "54d99c1005ba659c49c9942923f8c21ca2c4c7c0ce129fd2c3b98b5c668c1a0d",
+    "skills/email-marketing/scripts/preview.py": "173197d6b0f291b2070c9b31ccbb6cf540a56ff933e174dc53061f725fc76883",
+    "skills/email-marketing-audit/SKILL.md": "b6de4c110ff29e61f37c0942e56307c08015f929ab34ceb9174d644330855f46",
+    "skills/email-marketing-audit/references/findings.md": "4871b448c8ae9437574c5b0eeba5d2b3934c22b2d1c6e7ec88c4bb4e3b7c37af"
+  }
+}
